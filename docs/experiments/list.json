@@ -21,11 +21,8 @@
   "LR-3": "30:30",
   "LR-4": "31:31",
   "LR-5": "32:32",
-  "W1-3": null,
-  "W1-5": null,
-  "W2-3": null,
-  "W3-5": null,
-  "W1-3-old": null,
-  "W1-5-old": null,
-  "W2-3-old": null
+  "CropW1-3-new": null,
+  "CropW1-5-new": null,
+  "CropW2-3-new": null,
+  "CropW3-5-new": null
 }
